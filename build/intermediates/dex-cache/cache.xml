@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_98a4475bb1f16a170e0cf13c8d737c33e645bc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6657270bd7fba6c6eea89ba826b5ae0ab235e4a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_03bdbfbec9a2a46bb67ee67db923c1d9ef1c87a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_23aa055777821858a5b226862b8d932a38221c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d41cc8491b6fc4c5d34afbd39798fd6003abc4c3">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3905580e5267c521c4fae2d13aef25724fc07dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c016e176edd65b991f81d314fe38ba78db3307df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_78aef84ac0e6f62dca65ac9be4cd6b4c1c60c0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f626b8ed80f4d0b1583714eab52087d4f58e99dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b8e2e562ba35d0486df12240f800cbd2d311ce58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b330b2698a294e746326c1e1f709639660a569f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd38b0f69e4dc1fca5cfca31ed691e754d3be1d6">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\instant-run_bb59de742ce0ccb2612cc893cfa909bd25d065b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_17d36bcabc667fae81c2667c9dedbf3e8c5cd7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_bba5ef94951e9b6aa01d2590ebc9bbcd1ce1a4f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f806a34287304085e312f31047cba85abbc66d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_de9f8bbef07fbe93aa3416d1656903ca847ae02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_efd58f6ee3d078860b01b8c5ad970868d4d74a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_4cb1c3be5c85d1647707ea9cc393554eda11eefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2c4dba1223180b0625603cedf8d893f32c0f577b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Sebastian\Desktop\AppDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_23a08dae5bb3fa8ca1e9a33e66f3b31e267a494e.jar" />
+    </item>
+
+</items>

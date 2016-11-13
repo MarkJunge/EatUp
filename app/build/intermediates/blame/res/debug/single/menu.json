@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

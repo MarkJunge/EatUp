@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_compose.png",
+        "source": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\src\\main\\res\\drawable-mdpi\\ic_action_compose.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_compose.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\src\\main\\res\\drawable-mdpi\\ic_action_compose.png"
+    },
+    {
+        "merged": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_close.png",
+        "source": "C:\\Users\\ideap\\Downloads\\Android Studio\\AppDrawer\\app\\src\\main\\res\\drawable-mdpi\\ic_action_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_close.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\AppDrawer\\app\\src\\main\\res\\drawable-mdpi\\ic_action_close.png"
+    }
+]
